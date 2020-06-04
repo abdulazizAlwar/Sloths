@@ -1,3 +1,3 @@
 # Sloths
 
-A place for lazy sloths
+Super awesome crazy project that will change the world
